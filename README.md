@@ -1,6 +1,12 @@
 ### **Overview**
 This project demonstrates the integration of an MCP7000A temperature sensor with an OLED display and an RGB LED to visually indicate temperature ranges. The system reads the temperature data from the sensor, displays it on the OLED, and uses PWM signals to control the RGB LED, changing its color based on the current temperature.
 
+
+
+https://github.com/user-attachments/assets/19b67f74-13ec-4f06-aba7-de946cf8ea7d
+
+
+
 ### **Features**
 
 **1.	Temperature Measurement:**
